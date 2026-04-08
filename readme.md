@@ -8,26 +8,6 @@
 A beginner-friendly ETL (Extract, Transform, Load) pipeline that fetches Brazilian address data (CEP - Postal Code) from ViaCEP API, normalizes it, and stores it in PostgreSQL using Docker.
 
 ---
-
-## 📊 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Architecture](#architecture)
-- [Technology Stack](#technology-stack)
-- [Prerequisites](#prerequisites)
-- [Installation & Setup](#installation--setup)
-- [Running the ETL Pipeline](#running-the-etl-pipeline)
-- [Database Management with DBeaver](#database-management-with-dbeaver)
-- [File Structure Explained](#file-structure-explained)
-- [Sample Queries](#sample-queries)
-- [Troubleshooting](#troubleshooting)
-- [Next Steps & Learning Path](#next-steps--learning-path)
-- [Resources for Beginners](#resources-for-beginners)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## 📊 Project Overview
 
 This project demonstrates a complete data engineering workflow:
