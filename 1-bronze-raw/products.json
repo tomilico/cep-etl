@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "name": "Produto 1",
+    "price": 132.44,
+    "category": "Casa",
+    "stock": 53
+  },
+  {
+    "id": 2,
+    "name": "Produto 2",
+    "price": 381.41,
+    "category": "Livros",
+    "stock": 2
+  },
+  {
+    "id": 3,
+    "name": "Produto 3",
+    "price": 27.5,
+    "category": "Casa",
+    "stock": 86
+  },
+  {
+    "id": 4,
+    "name": "Produto 4",
+    "price": 199.36,
+    "category": "Roupas",
+    "stock": 69
+  },
+  {
+    "id": 5,
+    "name": "Produto 5",
+    "price": 90.92,
+    "category": "Esporte",
+    "stock": 4
+  },
+  {
+    "id": 6,
+    "name": "Produto 6",
+    "price": 407.33,
+    "category": "Casa",
+    "stock": 41
+  },
+  {
+    "id": 7,
+    "name": "Produto 7",
+    "price": 207.19,
+    "category": "Livros",
+    "stock": 18
+  },
+  {
+    "id": 8,
+    "name": "Produto 8",
+    "price": 184.36,
+    "category": "Casa",
+    "stock": 57
+  },
+  {
+    "id": 9,
+    "name": "Produto 9",
+    "price": 17.49,
+    "category": "Eletrônicos",
+    "stock": 12
+  },
+  {
+    "id": 10,
+    "name": "Produto 10",
+    "price": 164.4,
+    "category": "Casa",
+    "stock": 81
+  },
+  {
+    "id": 11,
+    "name": "Produto 11",
+    "price": 89.88,
+    "category": "Casa",
+    "stock": 1
+  },
+  {
+    "id": 12,
+    "name": "Produto 12",
+    "price": 30.83,
+    "category": "Livros",
+    "stock": 47
+  },
+  {
+    "id": 13,
+    "name": "Produto 13",
+    "price": 74.35,
+    "category": "Esporte",
+    "stock": 93
+  },
+  {
+    "id": 14,
+    "name": "Produto 14",
+    "price": 325.25,
+    "category": "Livros",
+    "stock": 32
+  },
+  {
+    "id": 15,
+    "name": "Produto 15",
+    "price": 279.92,
+    "category": "Livros",
+    "stock": 93
+  },
+  {
+    "id": 16,
+    "name": "Produto 16",
+    "price": 422.75,
+    "category": "Livros",
+    "stock": 90
+  },
+  {
+    "id": 17,
+    "name": "Produto 17",
+    "price": 444.1,
+    "category": "Esporte",
+    "stock": 27
+  },
+  {
+    "id": 18,
+    "name": "Produto 18",
+    "price": 386.05,
+    "category": "Casa",
+    "stock": 13
+  },
+  {
+    "id": 19,
+    "name": "Produto 19",
+    "price": 425.17,
+    "category": "Casa",
+    "stock": 70
+  },
+  {
+    "id": 20,
+    "name": "Produto 20",
+    "price": 206.5,
+    "category": "Casa",
+    "stock": 90
+  },
+  {
+    "id": 21,
+    "name": "Produto 21",
+    "price": 371.42,
+    "category": "Livros",
+    "stock": 46
+  },
+  {
+    "id": 22,
+    "name": "Produto 22",
+    "price": 93.74,
+    "category": "Esporte",
+    "stock": 3
+  },
+  {
+    "id": 23,
+    "name": "Produto 23",
+    "price": 294.88,
+    "category": "Livros",
+    "stock": 98
+  },
+  {
+    "id": 24,
+    "name": "Produto 24",
+    "price": 74.11,
+    "category": "Esporte",
+    "stock": 99
+  },
+  {
+    "id": 25,
+    "name": "Produto 25",
+    "price": 431.0,
+    "category": "Eletrônicos",
+    "stock": 62
+  },
+  {
+    "id": 26,
+    "name": "Produto 26",
+    "price": 475.24,
+    "category": "Casa",
+    "stock": 40
+  },
+  {
+    "id": 27,
+    "name": "Produto 27",
+    "price": 193.81,
+    "category": "Roupas",
+    "stock": 13
+  },
+  {
+    "id": 28,
+    "name": "Produto 28",
+    "price": 148.41,
+    "category": "Eletrônicos",
+    "stock": 59
+  },
+  {
+    "id": 29,
+    "name": "Produto 29",
+    "price": 57.78,
+    "category": "Casa",
+    "stock": 33
+  },
+  {
+    "id": 30,
+    "name": "Produto 30",
+    "price": 337.4,
+    "category": "Livros",
+    "stock": 13
+  },
+  {
+    "id": 31,
+    "name": "Produto 31",
+    "price": 373.95,
+    "category": "Eletrônicos",
+    "stock": 23
+  },
+  {
+    "id": 32,
+    "name": "Produto 32",
+    "price": 111.04,
+    "category": "Roupas",
+    "stock": 90
+  },
+  {
+    "id": 33,
+    "name": "Produto 33",
+    "price": 167.33,
+    "category": "Roupas",
+    "stock": 24
+  },
+  {
+    "id": 34,
+    "name": "Produto 34",
+    "price": 263.98,
+    "category": "Livros",
+    "stock": 24
+  },
+  {
+    "id": 35,
+    "name": "Produto 35",
+    "price": 471.55,
+    "category": "Eletrônicos",
+    "stock": 17
+  },
+  {
+    "id": 36,
+    "name": "Produto 36",
+    "price": 205.9,
+    "category": "Eletrônicos",
+    "stock": 37
+  },
+  {
+    "id": 37,
+    "name": "Produto 37",
+    "price": 422.61,
+    "category": "Casa",
+    "stock": 84
+  },
+  {
+    "id": 38,
+    "name": "Produto 38",
+    "price": 68.81,
+    "category": "Esporte",
+    "stock": 12
+  },
+  {
+    "id": 39,
+    "name": "Produto 39",
+    "price": 390.24,
+    "category": "Eletrônicos",
+    "stock": 14
+  },
+  {
+    "id": 40,
+    "name": "Produto 40",
+    "price": 192.64,
+    "category": "Roupas",
+    "stock": 46
+  },
+  {
+    "id": 41,
+    "name": "Produto 41",
+    "price": 361.4,
+    "category": "Roupas",
+    "stock": 54
+  },
+  {
+    "id": 42,
+    "name": "Produto 42",
+    "price": 23.6,
+    "category": "Livros",
+    "stock": 85
+  },
+  {
+    "id": 43,
+    "name": "Produto 43",
+    "price": 482.14,
+    "category": "Roupas",
+    "stock": 73
+  },
+  {
+    "id": 44,
+    "name": "Produto 44",
+    "price": 92.99,
+    "category": "Roupas",
+    "stock": 100
+  },
+  {
+    "id": 45,
+    "name": "Produto 45",
+    "price": 109.02,
+    "category": "Esporte",
+    "stock": 97
+  },
+  {
+    "id": 46,
+    "name": "Produto 46",
+    "price": 79.03,
+    "category": "Roupas",
+    "stock": 36
+  },
+  {
+    "id": 47,
+    "name": "Produto 47",
+    "price": 374.99,
+    "category": "Eletrônicos",
+    "stock": 79
+  },
+  {
+    "id": 48,
+    "name": "Produto 48",
+    "price": 378.36,
+    "category": "Eletrônicos",
+    "stock": 68
+  },
+  {
+    "id": 49,
+    "name": "Produto 49",
+    "price": 300.27,
+    "category": "Roupas",
+    "stock": 64
+  },
+  {
+    "id": 50,
+    "name": "Produto 50",
+    "price": 471.98,
+    "category": "Eletrônicos",
+    "stock": 8
+  }
+]

@@ -1,0 +1,46 @@
+cep,logradouro,complemento,unidade,bairro,localidade,uf,estado,regiao,ibge,gia,ddd,siafi
+01001-000,Praça da Sé,lado ímpar,,Sé,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+01310-200,Avenida Paulista,de 1512 a 2132 - lado par,,Bela Vista,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+20040-002,Avenida Rio Branco,de 128 a 144 - lado par,,Centro,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30190-010,Praça Afonso Arinos,,,Centro,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+40015-001,Rua Portugal,lado par,,Comércio,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+50010-000,Avenida Guararapes,,,Santo Antônio,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
+70070-600,Setor SAFS Quadra,(Setor de Administração Federal Sul),,Zona Cívico-Administrativa,Brasília,DF,Distrito Federal,Centro-Oeste,5300108,,61,9701
+80010-010,Rua Marechal Deodoro,até 0766 - lado par,,Centro,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+90010-001,Rua Siqueira Campos,de 0946/947 ao fim,,Centro Histórico,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+88010-001,Rua Felipe Schmidt,de 350/351 a 979/980,,Centro,Florianópolis,SC,Santa Catarina,Sul,4205407,,48,8105
+69005-040,Rua Miranda Leão,,,Centro,Manaus,AM,Amazonas,Norte,1302603,,92,0255
+66013-000,Rua Conselheiro João Alfredo,até 318/319,,Campina,Belém,PA,Pará,Norte,1501402,,91,0427
+59010-000,Avenida Presidente Café Filho,,,Praia do Meio,Natal,RN,Rio Grande do Norte,Nordeste,2408102,,84,1761
+74015-010,Avenida Tocantins,até 599 - lado ímpar,,Setor Central,Goiânia,GO,Goiás,Centro-Oeste,5208707,,62,9373
+29010-001,Avenida Jerônimo Monteiro,até 557 - lado ímpar,,Centro,Vitória,ES,Espírito Santo,Sudeste,3205309,,27,5705
+64000-020,Avenida Frei Serafim,lado ímpar,,Centro,Teresina,PI,Piauí,Nordeste,2211001,,86,1219
+58010-000,Avenida Beaurepaire Rohan,lado par,,Varadouro,João Pessoa,PB,Paraíba,Nordeste,2507507,,83,2051
+49010-000,Rua Laranjeiras,até 1022/1023,,Centro,Aracaju,SE,Sergipe,Nordeste,2800308,,79,3105
+65010-000,Rua Vinte e Oito de Setembro,,,Centro,São Luís,MA,Maranhão,Nordeste,2111300,,98,0921
+76801-000,Avenida Pinheiro Machado,até 550 - lado par,,Centro,Porto Velho,RO,Rondônia,Norte,1100205,,69,0003
+77001-002,Praça Girassóis,,,Plano Diretor Norte,Palmas,TO,Tocantins,Norte,1721000,,63,9733
+78005-000,Rua Engenheiro Ricardo Franco,,,Centro-Norte,Cuiabá,MT,Mato Grosso,Centro-Oeste,5103403,,65,9067
+79002-001,Avenida Calógeras,de 1999 a 2499 - lado ímpar,,Centro,Campo Grande,MS,Mato Grosso do Sul,Centro-Oeste,5002704,,67,9051
+01311-200,Avenida Paulista,de 1047 a 1865 - lado ímpar,,Bela Vista,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+04538-132,Avenida Brigadeiro Faria Lima,de 3252 ao fim - lado par,,Itaim Bibi,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+22041-001,Avenida Atlântica,de 2174 a 2634 - lado par,,Copacabana,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+31270-901,Avenida Presidente Antônio Carlos,6627,Universidade Federal de Minas Gerais,São José,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+50030-230,Cais do Apolo,,,Recife,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
+01153-000,Rua Vitorino Carmilo,,,Barra Funda,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+01414-001,Rua Haddock Lobo,até 1079 - lado ímpar,,Cerqueira César,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+01415-000,Rua Bela Cintra,até 586 - lado par,,Consolação,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+01512-000,Rua Conde de Sarzedas,,,Sé,São Paulo,SP,São Paulo,Sudeste,3550308,1004,11,7107
+20031-170,Avenida República do Chile,,,Centro,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+20210-030,Avenida Presidente Vargas,de 1263 ao fim - lado ímpar,,Cidade Nova,Rio de Janeiro,RJ,Rio de Janeiro,Sudeste,3304557,,21,6001
+30140-001,Avenida Brasil,até 980 - lado par,,Santa Efigênia,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+30130-010,Praça Sete de Setembro,,,Centro,Belo Horizonte,MG,Minas Gerais,Sudeste,3106200,,31,4123
+41830-410,Praça Belo Horizonte,,,Pituba,Salvador,BA,Bahia,Nordeste,2927408,,71,3849
+51011-000,Avenida Boa Viagem,até 1379/1380,,Pina,Recife,PE,Pernambuco,Nordeste,2611606,,81,2531
+60060-000,Rua Rodrigues Júnior,até 1091/1092,,Centro,Fortaleza,CE,Ceará,Nordeste,2304400,,85,1389
+70308-200,Quadra SCS Quadra 9,,,Asa Sul,Brasília,DF,Distrito Federal,Centro-Oeste,5300108,,61,9701
+80020-100,Praça Tiradentes,,,Centro,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+80230-000,Avenida Silva Jardim,até 1194/1195,,Rebouças,Curitiba,PR,Paraná,Sul,4106902,,41,7535
+90480-000,Avenida Carlos Gomes,até 888 - lado par,,Boa Vista,Porto Alegre,RS,Rio Grande do Sul,Sul,4314902,,51,8801
+88015-000,Rua Marechal Guilherme,,,Centro,Florianópolis,SC,Santa Catarina,Sul,4205407,,48,8105
+88037-000,Rua João Pio Duarte Silva,até 1179/1180,,Córrego Grande,Florianópolis,SC,Santa Catarina,Sul,4205407,,48,8105
